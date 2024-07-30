@@ -28,3 +28,8 @@ button {
     height: 100px;
     border-radius: 50%;
 }
+
+.result {
+    font-size: 100px;
+    font-weight: bold;
+}
